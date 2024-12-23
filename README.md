@@ -29,31 +29,27 @@ To run the project on your local machine, follow these steps:
 1. **Clone the repository**:
  
    git clone https://github.com/sonalirao14/AsForm.git
-Navigate to the project folder:
-
+2. **Navigate to the project folder**:
 cd AsForm
-Install dependencies: Make sure you have Node.js and npm installed. Then, run:
-
-
+3. **Install dependencies: Make sure you have Node.js and npm installed. Then, run**:
 npm install
-Start the development server: After the installation is complete, you can run the project locally:
-
-
+4.**Start the development server: After the installation is complete, you can run the project locally**:
 npm start
+
 This will start the app, and you can open it in your browser at http://localhost:3000.
 
-How to Contribute
-Fork the repository: Click on the "Fork" button on the top right corner of the repository page on GitHub.
-Clone your fork:
+## How to Contribute
+**Fork the repository**: Click on the "Fork" button on the top right corner of the repository page on GitHub.
+**Clone your fork**:
 
 git clone https://github.com/your-username/AsForm.git
-Create a new branch for your changes:
+**Create a new branch for your changes**:
 
 git checkout -b feature-name
-Make your changes and commit them:
+**Make your changes and commit them**:
 
 git commit -m "Description of your changes"
-Push to your fork:
+**Push to your fork**:
 
 git push origin feature-name
-Create a Pull Request: Go to your repository on GitHub and click on "Compare & pull request" to submit your changes.
+**Create a Pull Request**: Go to your repository on GitHub and click on "Compare & pull request" to submit your changes.
