@@ -31,11 +31,12 @@ To run the project on your local machine, follow these steps:
    git clone https://github.com/sonalirao14/AsForm.git
 2. **Navigate to the project folder**:
 cd AsForm
-3. **Install dependencies**: Make sure you have Node.js and npm installed. Then, run:
+3. **Install dependencies**:
+    Make sure you have Node.js and npm installed. Then, run:
 npm install
-4.**Start the development server**: After the installation is complete, you can run the project locally:
-npm start
-
+4.**Start the development server**:
+After the installation is complete, you can run the project locally:
+ npm start
 This will start the app, and you can open it in your browser at http://localhost:3000.
 
 ## How to Contribute
